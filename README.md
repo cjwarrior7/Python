@@ -1,1 +1,1 @@
-# tata-ui
+# python tutorials
